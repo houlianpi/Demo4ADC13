@@ -16,7 +16,7 @@
                 <version>2.12.4</version>
                 <configuration>
                     <includes>
-                        <include>**/*.java</include>
+                        <include>appium/**/*.java</include>
                     </includes>
                 </configuration>
             </plugin>
